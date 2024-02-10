@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/BRYAN JACHO/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar;C:/Users/BRYAN JACHO/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/BRYAN JACHO/Documents/NetBeansProjects/CatalogoOnline/CatalogoOnline/src/main/java;C:/Users/BRYAN JACHO/Documents/NetBeansProjects/CatalogoOnline/CatalogoOnline/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/BRYAN JACHO/Documents/NetBeansProjects/CatalogoOnline/CatalogoOnline/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CatalogoOnline 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CatalogoOnline 1.0-SNAPSHOT API'
+com.jachobryan.catalogoonline
+C:\Users\BRYAN JACHO\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1681683093000
+C:\Users\BRYAN JACHO\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1666818740000
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\src\main\java = 1707531784574
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\generated-sources\annotations = 1706548254000
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\allclasses-index.html = 1707534067375
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\allpackages-index.html = 1707534067378
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\copy.svg = 1707534067415
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\element-list = 1707534067288
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\help-doc.html = 1707534067408
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\index-all.html = 1707534067398
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\index.html = 1707534067403
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\link.svg = 1707534067417
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\member-search-index.js = 1707534067385
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\module-search-index.js = 1707534067380
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\overview-tree.html = 1707534067361
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\package-search-index.js = 1707534067381
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\script.js = 1707534067413
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\search-page.js = 1707534067423
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\search.html = 1707534067401
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\search.js = 1707534067420
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\serialized-form.html = 1707534067332
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\stylesheet.css = 1707534067410
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\tag-search-index.js = 1707534067388
+C:\Users\BRYAN JACHO\Documents\NetBeansProjects\CatalogoOnline\CatalogoOnline\target\apidocs\type-search-index.js = 1707534067383

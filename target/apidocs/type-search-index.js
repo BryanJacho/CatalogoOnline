@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.jachobryan.catalogoonline","l":"camisa"},{"p":"com.jachobryan.catalogoonline","l":"CatalogoOnline"},{"p":"com.jachobryan.catalogoonline","l":"ConexionDb"},{"p":"com.jachobryan.catalogoonline","l":"GUICamisas"}];updateSearchResults();
